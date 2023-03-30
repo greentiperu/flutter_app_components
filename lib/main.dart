@@ -1,4 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_app_components/ui/views/Listview_view.dart';
+import 'package:flutter_app_components/ui/views/alert_view.dart';
+import 'package:flutter_app_components/ui/views/avatar_view.dart';
+import 'package:flutter_app_components/ui/views/card_view.dart';
 import 'package:flutter_app_components/ui/views/home_view.dart';
 
 void main() {
