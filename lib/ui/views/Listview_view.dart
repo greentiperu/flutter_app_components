@@ -38,6 +38,30 @@ class ListviewView extends StatelessWidget {
                 ),
               ),
             ),
+             Container(
+              width: 320.0,
+              margin: EdgeInsets.only(left: 15.0),
+              decoration: BoxDecoration(
+                color: Colors.red,
+                borderRadius: BorderRadius.circular(20.0),
+                image: DecorationImage(
+                  image: AssetImage("assets/images/photo.jpeg"),
+                  fit: BoxFit.cover
+                ),
+              ),
+            ),
+             Container(
+              width: 320.0,
+              margin: EdgeInsets.only(left: 15.0),
+              decoration: BoxDecoration(
+                color: Colors.red,
+                borderRadius: BorderRadius.circular(20.0),
+                image: DecorationImage(
+                  image: AssetImage("assets/images/photo.jpeg"),
+                  fit: BoxFit.cover
+                ),
+              ),
+            ),
           ],
         ),
       ),
